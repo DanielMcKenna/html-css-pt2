@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.top-box {
+  background-color: black;
+  height: 16vh;
+}
+
+.main-section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  width: 100%;
+}
+
+.left-rect {
+  width: 20vh;
+  background-color: grey;
+  height: 100vh;
+}
+
+.bottom-center {
+  background-color: black;
+  width: 60vh;
+  height: 25vh;
+}
+
+.right-rect {
+  width: 20vh;
+  background-color: grey;
+  height: 100vh;
+}
